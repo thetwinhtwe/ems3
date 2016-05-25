@@ -1,0 +1,113 @@
+2016-05-25 20:41:35 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 17]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-25 20:41:36 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';'
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 17)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-25 20:43:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Employees could not be found.
+Exception Attributes: array (
+  'class' => 'Employees',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-25 20:44:28 Error: Fatal Error (4): syntax error, unexpected end of file in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 40]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-25 20:44:28 Error: [Cake\Error\FatalErrorException] syntax error, unexpected end of file
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 40)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-25 20:46:44 Error: Fatal Error (1): Class 'App\Controller\Controller' not found in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 6]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-25 20:46:44 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Controller' not found
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 6)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-25 20:47:02 Error: Fatal Error (4): syntax error, unexpected end of file in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 40]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-25 20:47:02 Error: [Cake\Error\FatalErrorException] syntax error, unexpected end of file
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 40)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-25 20:48:51 Error: Fatal Error (1): Call to undefined function echo__() in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 2]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-25 20:48:51 Error: [Cake\Error\FatalErrorException] Call to undefined function echo__()
+Request URL: /
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Applications/M...', 2)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-25 20:49:26 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view
+Referer URL: http://ems3.dev/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
