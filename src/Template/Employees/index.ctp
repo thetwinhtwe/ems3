@@ -7,6 +7,7 @@
 			<th><?php echo __('name'); ?></th>
 			<th><?php echo __('mobile_no'); ?></th>
 			<th><?php echo __('email'); ?></th>
+			<th><?php echo __('gender'); ?></th>
 			<th><?php echo __('dob'); ?></th>
 			<th><?php echo __('address'); ?></th>
 			<th class="actions"><?php echo __('Actions'); ?></th>

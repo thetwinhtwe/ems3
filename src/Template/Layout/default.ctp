@@ -26,15 +26,15 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
     </title>
     <?= $this->Html->meta('icon') ?>
 
-    <?= $this->Html->css('base.css') ?>
-    <?= $this->Html->css('cake.css') ?>
-
+<!--     <?= $this->Html->css('base.css') ?>
+    <?= $this->Html->css('cake.css') ?> -->
+    <?= $this->Html->css(array('bootstrap.min', 'stylesheet')); ?>
     <?= $this->fetch('meta') ?>
     <?= $this->fetch('css') ?>
     <?= $this->fetch('script') ?>
 </head>
 <body>
-    <nav class="top-bar expanded" data-topbar role="navigation">
+    <!-- <nav class="top-bar expanded" data-topbar role="navigation">
         <ul class="title-area large-3 medium-4 columns">
             <li class="name">
                 <h1><a href=""><?= $this->fetch('title') ?></a></h1>
@@ -50,7 +50,36 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
     <?= $this->Flash->render() ?>
     <div class="container clearfix">
         <?= $this->fetch('content') ?>
+    </div> -->
+<div id="container">
+            <div class="row header">
+  <div class="navbar navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <!-- <a class="navbar-brand" href="index.php">Employee Management System</a> -->
+          <?php
+            echo $this->Html->link(
+            'Employee Management System',
+            array(
+                'controller' => 'employees',
+                'action' => 'workbench'
+            ),
+            array(
+                'class'=>'navbar-brand'
+                )
+);
+        ?>
+        </div>
+      </div>              
     </div>
+  </div> 
+            <center>
+            <?php echo $this->Flash->render(); ?>
+            </center>
+
+            <?php echo $this->fetch('content'); ?>
+        </div>
+
     <footer>
     </footer>
 </body>
