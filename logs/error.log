@@ -141,3 +141,63 @@ Stack Trace:
 #5 {main}
 
 
+2016-05-25 21:06:41 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-25 21:07:23 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-26 17:30:08 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-26 19:02:05 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view
+Referer URL: http://ems3.dev/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
