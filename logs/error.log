@@ -201,3 +201,434 @@ Stack Trace:
 #5 {main}
 
 
+2016-05-27 21:18:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Add could not be found.
+Exception Attributes: array (
+  'class' => 'Add',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-27 21:20:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Add could not be found.
+Exception Attributes: array (
+  'class' => 'Add',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-05-27 21:21:44 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 21:40:51 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 21:57:35 Error: Fatal Error (1): Call to a member function newEntity() on boolean in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 34]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 21:57:35 Error: [Cake\Error\FatalErrorException] Call to a member function newEntity() on boolean
+Request URL: /employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Applications/M...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:06:18 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "employees" with primary key [NULL]
+Request URL: /employees/edit
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php(50): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\EmployeesController->edit()
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#5 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-27 22:06:46 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 22:07:09 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 22:07:13 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "employees" with primary key [NULL]
+Request URL: /employees/edit
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php(50): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\EmployeesController->edit()
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#5 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-27 22:09:42 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "employees" with primary key [NULL]
+Request URL: /employees/edit
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php(50): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\EmployeesController->edit()
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#5 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-27 22:19:20 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 22:19:26 Warning: Warning (2): Missing argument 1 for App\Controller\EmployeesController::delete() in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 62]
+Request URL: /employees/delete
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\EmployeesController::delete() - APP/Controller/EmployeesController.php, line 62
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-27 22:19:26 Error: [Cake\Datasource\Exception\InvalidPrimaryKeyException] Record not found in table "employees" with primary key [NULL]
+Request URL: /employees/delete
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php(66): Cake\ORM\Table->get(NULL)
+#1 [internal function]: App\Controller\EmployeesController->delete()
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(429): call_user_func_array(Array, Array)
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#4 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#5 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#6 {main}
+
+
+2016-05-27 22:23:23 Error: Fatal Error (4): syntax error, unexpected ''])); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 31]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:23:23 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''])); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:23:59 Error: Fatal Error (4): syntax error, unexpected '')); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 31]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:23:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '')); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:24:55 Warning: Warning (2): rawurlencode() expects parameter 1 to be string, array given in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 572]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+rawurlencode - [internal], line ??
+array_map - [internal], line ??
+Cake\Routing\Route\Route::_writeUrl() - CORE/src/Routing/Route/Route.php, line 572
+Cake\Routing\Route\Route::match() - CORE/src/Routing/Route/Route.php, line 533
+Cake\Routing\Route\DashedRoute::match() - CORE/src/Routing/Route/DashedRoute.php, line 100
+Cake\Routing\RouteCollection::match() - CORE/src/Routing/RouteCollection.php, line 257
+Cake\Routing\Router::url() - CORE/src/Routing/Router.php, line 612
+Cake\View\Helper\UrlHelper::build() - CORE/src/View/Helper/UrlHelper.php, line 40
+Cake\View\Helper\HtmlHelper::link() - CORE/src/View/Helper/HtmlHelper.php, line 337
+include - APP/Template/Employees/index.ctp, line 30
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-27 22:24:55 Warning: Warning (2): rawurlencode() expects parameter 1 to be string, array given in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 572]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+rawurlencode - [internal], line ??
+array_map - [internal], line ??
+Cake\Routing\Route\Route::_writeUrl() - CORE/src/Routing/Route/Route.php, line 572
+Cake\Routing\Route\Route::match() - CORE/src/Routing/Route/Route.php, line 533
+Cake\Routing\Route\DashedRoute::match() - CORE/src/Routing/Route/DashedRoute.php, line 100
+Cake\Routing\RouteCollection::match() - CORE/src/Routing/RouteCollection.php, line 257
+Cake\Routing\Router::url() - CORE/src/Routing/Router.php, line 612
+Cake\View\Helper\UrlHelper::build() - CORE/src/View/Helper/UrlHelper.php, line 40
+Cake\View\Helper\HtmlHelper::link() - CORE/src/View/Helper/HtmlHelper.php, line 337
+include - APP/Template/Employees/index.ctp, line 30
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-27 22:24:55 Warning: Warning (2): rawurlencode() expects parameter 1 to be string, array given in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 572]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+rawurlencode - [internal], line ??
+array_map - [internal], line ??
+Cake\Routing\Route\Route::_writeUrl() - CORE/src/Routing/Route/Route.php, line 572
+Cake\Routing\Route\Route::match() - CORE/src/Routing/Route/Route.php, line 533
+Cake\Routing\Route\DashedRoute::match() - CORE/src/Routing/Route/DashedRoute.php, line 100
+Cake\Routing\RouteCollection::match() - CORE/src/Routing/RouteCollection.php, line 257
+Cake\Routing\Router::url() - CORE/src/Routing/Router.php, line 612
+Cake\View\Helper\UrlHelper::build() - CORE/src/View/Helper/UrlHelper.php, line 40
+Cake\View\Helper\HtmlHelper::link() - CORE/src/View/Helper/HtmlHelper.php, line 337
+include - APP/Template/Employees/index.ctp, line 30
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-27 22:24:55 Warning: Warning (2): rawurlencode() expects parameter 1 to be string, array given in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 572]
+Request URL: /employees/index
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+rawurlencode - [internal], line ??
+array_map - [internal], line ??
+Cake\Routing\Route\Route::_writeUrl() - CORE/src/Routing/Route/Route.php, line 572
+Cake\Routing\Route\Route::match() - CORE/src/Routing/Route/Route.php, line 533
+Cake\Routing\Route\DashedRoute::match() - CORE/src/Routing/Route/DashedRoute.php, line 100
+Cake\Routing\RouteCollection::match() - CORE/src/Routing/RouteCollection.php, line 257
+Cake\Routing\Router::url() - CORE/src/Routing/Router.php, line 612
+Cake\View\Helper\UrlHelper::build() - CORE/src/View/Helper/UrlHelper.php, line 40
+Cake\View\Helper\HtmlHelper::link() - CORE/src/View/Helper/HtmlHelper.php, line 337
+include - APP/Template/Employees/index.ctp, line 30
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-27 22:26:16 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/view.ctp',
+)
+Request URL: /employees/view/1
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-05-27 22:29:35 Error: Fatal Error (4): syntax error, unexpected 's' (T_STRING) in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/index.ctp, line 32]
+Request URL: /employees
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:29:35 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 's' (T_STRING)
+Request URL: /employees
+Referer URL: http://ems3.dev/employees/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:41:46 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 29]
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:41:46 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 29)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:42:29 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 34]
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:42:29 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:42:32 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 34]
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:42:32 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-27 22:42:34 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/ems3/src/Controller/EmployeesController.php, line 34]
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-27 22:42:34 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /employees
+Referer URL: http://ems3.dev/employees
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
