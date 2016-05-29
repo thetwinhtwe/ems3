@@ -4219,3 +4219,1683 @@ Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
 
 
 
+2016-05-28 08:56:27 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:27 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:27 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:27 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:27 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:29 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:29 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:29 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:29 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 08:56:29 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:33:56 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:33:56 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:33:56 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:33:56 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:33:56 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:34:08 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:34:08 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:34:08 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:34:08 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 12:34:08 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/1
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 15:58:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 15:58:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 15:58:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 15:58:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 15:58:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:00:16 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:00:16 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:00:16 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:00:16 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:00:16 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:01:10 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:01:14 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:02:12 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:02:14 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:02:30 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:02:54 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:04:34 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Referer URL: http://ems3.dev/employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:04:42 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:06:09 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:06:50 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:07:22 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:07:22 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:07:22 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:07:22 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:07:22 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:09:17 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 16:20:07 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 19:24:12 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-28 21:50:00 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 19:04:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:42 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:42 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:42 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:42 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:45 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:45 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:45 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:45 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:07:45 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:37 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:37 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:37 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:37 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:37 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:39 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:39 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:39 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:39 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:39 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:41 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:10:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:11:31 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:11:33 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/add.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:13:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/5
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:13:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/5
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:13:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/5
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:13:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/5
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-29 20:13:43 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/StringTemplate.php, line 309]
+Request URL: /employees/edit/5
+Referer URL: http://ems3.dev/employees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+implode - [internal], line ??
+Cake\View\StringTemplate::_formatAttribute() - CORE/src/View/StringTemplate.php, line 309
+Cake\View\StringTemplate::formatAttributes() - CORE/src/View/StringTemplate.php, line 290
+Cake\View\Helper\FormHelper::create() - CORE/src/View/Helper/FormHelper.php, line 433
+include - APP/Template/Employees/edit.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

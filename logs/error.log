@@ -632,3 +632,35 @@ Stack Trace:
 #2 {main}
 
 
+2016-05-28 16:05:48 Error: Fatal Error (4): syntax error, unexpected ']', expecting ')' in [/Applications/MAMP/htdocs/ems3/src/Template/Employees/add.ctp, line 28]
+Request URL: /employees/add
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-05-28 16:05:48 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting ')'
+Request URL: /employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 28)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-05-29 20:17:46 Error: [Cake\View\Exception\MissingTemplateException] Template file "Employees/workbench.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Employees/workbench.ctp',
+)
+Request URL: /employees/workbench
+Referer URL: http://ems3.dev/employees/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Controller/Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/ems3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\EmployeesController))
+#4 /Applications/MAMP/htdocs/ems3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+

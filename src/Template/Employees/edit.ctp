@@ -14,18 +14,7 @@
  
   <div class="container-fluid">
 <?php //echo $this->Form->create($employee,);?>
-<?php echo $this->Form->create($employee, array(
-'class' => 'form-horizontal',
-'role'=>'form',
-'inputDefaults' => array(
-    'format' => array('before', 'label', 'between', 'input', 'error', 'after'),
-    'div' => array('class' => 'form-group'),
-    'class' => array('form-control'),
-    'label' => array('class' => 'col-lg-4 col-md-4 col-xs-12 col-sm-12 control-label'),
-    'between' => '<div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">',
-    'after' => '</div>',
-    'error' => array('attributes' => array('wrap' => 'span', 'class' => 'help-inline')),
-)));
+<?php echo $this->Form->create('employee');
  ?>
 	<?php
         echo $this->Form->input('id');

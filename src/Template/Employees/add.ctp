@@ -13,9 +13,14 @@
   <div class="panel-body">
  
   <div class="container-fluid">
-  	<?php echo $this->Form->create($employee); ?>
+  	<?php //echo $this->Form->create($employee); ?>
+  	<?php echo $this->Form->create('employee');
+ ?>
 	<?php
-		echo $this->Form->input('name');
+		echo $this->Form->input('name',
+			array(
+    			'label' => array('class' => 'col-sm-4 control-label','text'=>'Name')
+				));
 				?>
 		<?php
 		//echo $this->Form->input('name');
